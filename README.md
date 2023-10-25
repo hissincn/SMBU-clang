@@ -1,7 +1,15 @@
-# SMBU-clang
-
-**Clang assignments**
+# 深圳北理莫斯科大学 2023级 C语言作业
 
 **author hissin' of class 4**
 
-A repository for submitting assignments for the course.
+请路过的小伙伴帮我点个star哦，这很重要～
+
+## github怎样点star？
+
+要在GitHub上给一个仓库点星（Star），请按照以下步骤进行：
+
++ 登录GitHub账号：首先，确保您已经登录到您的GitHub账号。如果您没有账号，需要先注册一个。
+
++ 访问仓库：找到您想要点星的仓库，然后点击该仓库的名称，以进入该仓库的页面。
+
++ 点星：在仓库页面的右上角，您会看到一个按钮，通常是一个带有星星图标的按钮，类似于 "Star" 或 "Star this repository"。点击这个按钮即可给该仓库点星。点击后，星星会变成已填充状态，表示您已经点过星了。
