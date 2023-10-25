@@ -1,6 +1,6 @@
 # 深圳北理莫斯科大学 2023级 C语言作业
 
-**author hissin' of class 4**
+author: 电计4班 hissin'
 
 请路过的小伙伴帮我点个star哦，这很重要～
 
