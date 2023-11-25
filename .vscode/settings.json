@@ -2,6 +2,8 @@
     "files.associations": {
         "java": "cd $dir && javac -d. $fileName && java app.$fileNameWithoutExt",
         "2-2.C": "cpp",
-        "2-1.C": "cpp"
-    }
+        "2-1.C": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
